@@ -1,3 +1,1 @@
-# little_lemon
-# little_lemon
-# little_lemon
+npm install && npm start
